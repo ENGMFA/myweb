@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main-header {
+    font-size: 12px;
+    height: 54px;
+    background-color: #262626;
+    z-index: 100;
+    line-height: 54px;
+    margin-bottom: 1px;
+}
+.top-head-logo {
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 54px;
+    margin-bottom: 1px;
+    /* background-image: url(../img/envato_market.svg); */
+    color: #ffff;
+    background-size: 152px 18px;
+    background-repeat: no-repeat;
+    height: 18px;
+    width: 152px
+
+
+
+}
